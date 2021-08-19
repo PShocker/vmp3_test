@@ -1,5 +1,5 @@
 # vmp3_test
-原文链接:
+原文链接:https://www.52pojie.cn/thread-1496575-1-1.html
 
 去混淆处理后文件:./sample/test.vmp_patch.exe
 
