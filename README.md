@@ -1,7 +1,9 @@
 # vmp3_test
+vmp入门分析
+
 原文链接:https://www.52pojie.cn/thread-1496575-1-1.html
 
-去混淆处理后文件:./sample/test.vmp_patch.exe
+去混淆处理后vmp文件:./sample/test.vmp_patch.exe
 
 未处理vmp原文件:./sample/test.vmp.exe
 
